@@ -9,5 +9,5 @@ This project showcases the simple application of OOPS concept and basic function
 
 Note: This application doesnot play a song in real, it only replicates the behaviour of a playlist application.
 
-OOPS concept used: Inheritence, Method overloading, Method overriding, Encaptulation
+OOPS concept used: Inheritence, Method overloading, Method overriding, Encaptulation\n
 DS used:ArrayList, LinkedList
